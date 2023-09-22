@@ -1,0 +1,26 @@
+Here is some short info about the Nemo Outdoor installation
+
+Keysight License server:
+https://gls.nemo.fi/gls12
+
+Your account:
+                  
+User: sahar.hajimoradkhani
+Pswd: j7tFds86RAH
+
+##########################################
+
+you need to go to Tools-Download area, and download 
+-	Nemo Outdoor
+-	User Installation package for GLS
+-	Nemo Global License Server - End-User Guide
+
+Follow the instructions in the User Guide. 
+
+You need to actively assign the license via the license server to you to be able to run the Nemo Outdoor Tool.
+
+If you have Quectel RM500Q Devices, you also will need to install Windows Drivers for that from here
+https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcnquectel-my.sharepoint.com%2F%3Af%3A%2Fg%2Fpersonal%2Feurope-fae_quectel_com%2FEj0nkL8bNRdIvlO65dKY0TwBnLETocSB8UQK12HeCG7OlQ%3Fe%3DxTPlZ0&data=04%7C01%7CNikolaj.Marchenko%40de.bosch.com%7C15a9c5d5ab7e4426160008d8d12c41ce%7C0ae51e1907c84e4bbb6d648ee58410f4%7C0%7C0%7C637489335335434415%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=kZv4tgffP5SmMvGdKIbLlkwcCaSJFlbJPUyKjEhC%2Fsw%3D&reserved=0
+
+-->Quectel_LTE&5G_Windows_USB_Driver_V2.2.4
+
